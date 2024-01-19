@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @DrRogerM
+- 👀 I’m interested in developing QGIS Plugins in the vector space.
+- 🌱 I’m currently learning QGIS and Python, a big learning curve
+- 💞️ I’m looking to collaborate on paid projects, such as data migration, spatial upgrades, shifting cadastre, etc.
+- 📫 How to reach me - roger@SpatialTapestry.com.au
+  - ⚡ Fun fact: Currently in Perth, Western Australia
